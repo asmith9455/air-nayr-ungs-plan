@@ -14,3 +14,8 @@ I would like to extend it the tool to include schedules for shopping/cooking, in
 # From where does the nutrition information originate?
 
 I intend to use https://github.com/jithesh82/noms, which was forked from https://github.com/noahtren/noms, which reads data from a nutritional database compiled by the USDA. To make it easy to work with noms (which I currently belive requires maintenance), I've included it in this project as a git submodule.
+
+Other sources:
+
+* [PAN International](https://pan-int.org/resources/)
+* 
